@@ -63,7 +63,6 @@ namespace IdentityServer.Web
                 Log.CloseAndFlush();
             }
         }
-
         [Obsolete]
         private static IWebHost BuildWebHost(IConfiguration configuration, string[] args) =>
             WebHost.CreateDefaultBuilder(args)
