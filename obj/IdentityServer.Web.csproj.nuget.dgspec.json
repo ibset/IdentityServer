@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj": {}
+  },
+  "projects": {
+    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj",
+        "projectName": "IdentityServer.Web",
+        "projectPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj",
+        "packagesPath": "/home/ibfm/.nuget/packages/",
+        "outputPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ibfm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-rc1, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IdentityServer4.Storage": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.8.0-beta3, )"
+            },
+            "Microsoft.ApplicationInsights.DependencyCollector": {
+              "target": "Package",
+              "version": "[2.11.0-beta2, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.Redis": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19457.4, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19457.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.14, )"
+            },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.0.76, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.1-dev-00099, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1-dev-00209, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.2-dev-00824, )"
+            },
+            "Serilog.Sinks.Http": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[4.0.1-dev-00159, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
