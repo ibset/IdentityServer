@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj": {}
+    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/IdentityServer/IdentityServer.Web.csproj": {}
   },
   "projects": {
-    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj": {
+    "/home/ibfm/Documentos/Repositories/ibset.ssoserver/IdentityServer/IdentityServer.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj",
+        "projectUniqueName": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/IdentityServer/IdentityServer.Web.csproj",
         "projectName": "IdentityServer.Web",
-        "projectPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/IdentityServer.Web.csproj",
+        "projectPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/IdentityServer/IdentityServer.Web.csproj",
         "packagesPath": "/home/ibfm/.nuget/packages/",
-        "outputPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/SSO-Server/IdentityServer.Web/obj/",
+        "outputPath": "/home/ibfm/Documentos/Repositories/ibset.ssoserver/IdentityServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ibfm/.nuget/NuGet/NuGet.Config"
